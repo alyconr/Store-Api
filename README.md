@@ -1,6 +1,6 @@
 # Product API Documentation
 
-This is the official documentation for the Product API. The API allows you to retrieve product information with various filtering and sorting options. The API supports both a static endpoint that retrieves products with a specific name and a more flexible dynamic endpoint that allows you to filter, sort, and paginate the product data.
+This is the l documentation for the Product API. The API allows you to retrieve product information with various filtering and sorting options. The API supports both a static endpoint that retrieves products with a specific name and a more flexible dynamic endpoint that allows you to filter, sort, and paginate the product data.
 
 ## Table of Contents
 
